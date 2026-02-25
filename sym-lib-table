@@ -1,0 +1,10 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "3PHM - Connector")(type "KiCad")(uri "/Users/zacharypatchen/Documents/CAD Models/Headers/3PRightAngle_M22-2030305/M22-2030305/KiCad/M22-2030305.kicad_sym")(options "")(descr "right angle 3 pin connector for XLR left and right"))
+  (lib (name "3PVM - Connector")(type "KiCad")(uri "/Users/zacharypatchen/Documents/CAD Models/Headers/3PVert_2MM-HB-S03-VT-02-H-TB/2MM-HB-S03-VT-02-H-TB/KiCad/2MM-HB-S03-VT-02-H-TB.kicad_sym")(options "")(descr "verticle 3 pin connector for XLR female on bottom"))
+  (lib (name "3SVF - Connector")(type "KiCad")(uri "/Users/zacharypatchen/Documents/CAD Models/Headers/3SocketVert_SQT-103-01-F-S/SQT-103-01-F-S/KiCad/SQT-103-01-F-S.kicad_sym")(options "")(descr "verticle socket connector for female xlrs"))
+  (lib (name "4PVM - Connector")(type "KiCad")(uri "/Users/zacharypatchen/Documents/CAD Models/Headers/4PVert_2MM-HB-S04-VT-02-H-TB/2MM-HB-S04-VT-02-H-TB/KiCad/2MM-HB-S04-VT-02-H-TB.kicad_sym")(options "")(descr "verticle 4 pin connector for placement by male xlr"))
+  (lib (name "4SVF - Connector")(type "KiCad")(uri "/Users/zacharypatchen/Documents/CAD Models/Headers/4SocketVert_SQT-104-01-F-S/SQT-104-01-F-S/KiCad/SQT-104-01-F-S.kicad_sym")(options "")(descr "verticle socket conector for placement by male xlr"))
+  (lib (name "1K Audio Pot")(type "KiCad")(uri "/Users/zacharypatchen/Documents/CAD Models/Pots/1kAudio_PTD902-1015K-A102/PTD902-1015K-A102/KiCad/PTD902-1015K-A102.kicad_sym")(options "")(descr "audio pot"))
+  (lib (name "4.7kOhm resistor")(type "KiCad")(uri "/Users/zacharypatchen/Documents/CAD Models/Resistors/4.7kAudio_CMF504K7000FKEB/CMF504K7000FKEB/KiCad/CMF504K7000FKEB.kicad_sym")(options "")(descr "mic resistors"))
+)

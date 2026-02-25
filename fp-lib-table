@@ -1,0 +1,10 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "3PHM - Connector")(type "KiCad")(uri "/Users/overlordzdp/Documents/CAD Models/Headers/3PRightAngle_M22-2030305/M22-2030305/KiCad")(options "")(descr "3 Pin Horizontal Male Header"))
+  (lib (name "3PVM - Connector")(type "KiCad")(uri "/Users/overlordzdp/Documents/CAD Models/Headers/3PVert_2MM-HB-S03-VT-02-H-TB/2MM-HB-S03-VT-02-H-TB/KiCad")(options "")(descr "3 Pin Verticle Male Header"))
+  (lib (name "3SVF - Connector")(type "KiCad")(uri "/Users/overlordzdp/Documents/CAD Models/Headers/3SocketVert_SQT-103-01-F-S/SQT-103-01-F-S/KiCad")(options "")(descr "3 Socket Verticle Female Header"))
+  (lib (name "4PVM - Connector")(type "KiCad")(uri "/Users/overlordzdp/Documents/CAD Models/Headers/4PVert_2MM-HB-S04-VT-02-H-TB/2MM-HB-S04-VT-02-H-TB/KiCad")(options "")(descr "4 Pin Verticle Male Header"))
+  (lib (name "4SVF - Connector")(type "KiCad")(uri "/Users/overlordzdp/Documents/CAD Models/Headers/4SocketVert_SQT-104-01-F-S/SQT-104-01-F-S/KiCad")(options "")(descr "4 Socket Verticle Female Header"))
+  (lib (name "1k Audio Pot")(type "KiCad")(uri "/Users/overlordzdp/Documents/CAD Models/Pots/1kAudio_PTD902-1015K-A102/PTD902-1015K-A102/KiCad")(options "")(descr "1kOhm Audio Taper Stereo Pot"))
+  (lib (name "4.7kOhm resistor")(type "KiCad")(uri "/Users/overlordzdp/Documents/CAD Models/Resistors/4.7kAudio_CMF504K7000FKEB/CMF504K7000FKEB/KiCad")(options "")(descr "4.7kOhm resistor"))
+)
