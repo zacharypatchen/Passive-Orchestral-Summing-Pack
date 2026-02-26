@@ -3,4 +3,4 @@
 
 Video describing system: https://youtu.be/avfMIS6j09w?si=Rws9fPx7UGtwEoFt
 <br>
-The Summing Pack is a passive device used to minimize mic inputs for an orchestral recording. Eight mic lines can be summed down to one, improving mixing board input efficiency. Note, this is passive so it requires a mic pre with high SINAD dB.
+The Summing Pack is a passive device used to minimize mic inputs for an orchestral recording. Eight mic lines can be summed down to one, improving mixing board input efficiency. Note, this is passive so it requires a mic pre with plenty of gain & high SINAD dB.
